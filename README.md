@@ -50,7 +50,7 @@ Operation is selected via a 3-bit signal `ALU_Sel`:
 
 ```
 alu_project/
-├── Output_Images/               
+├── outputs/
 ├── src/               # Verilog source
 │   ├── alu.v
 │   └── alu_tb.v
