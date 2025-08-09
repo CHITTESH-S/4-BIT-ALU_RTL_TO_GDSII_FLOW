@@ -1,0 +1,4 @@
+read_verilog ../src/alu.v
+synth -top alu
+write_json alu.json
+write_verilog alu_netlist.v
