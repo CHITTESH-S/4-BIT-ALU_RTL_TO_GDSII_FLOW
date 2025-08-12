@@ -1,0 +1,10 @@
+%Warning-UNUSEDSIGNAL: /openlane/designs/4bit_alu/src/alu.v:2:17: Signal is not used: 'clk'
+                                                                : ... In instance alu
+    2 |     input  wire clk,           
+      |                 ^~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.009
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
+%Warning-LATCH: /openlane/designs/4bit_alu/src/alu.v:8:5: Latch inferred for signal 'Cout' (not all control paths of combinational always assign a value)
+                                                        : ... Suggest use of always_latch for intentional latches
+    8 |     always @(*) begin
+      |     ^~~~~~
