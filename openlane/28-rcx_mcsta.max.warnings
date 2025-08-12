@@ -1,0 +1,7 @@
+Warning: /openlane/designs/4bit_alu/runs/RUN_2025.08.12_07.29.39/results/routing/alu.nl.v line 277, module sky130_fd_sc_hd__tapvpwrvgnd_1 not found. Creating black box for TAP_26.
+Warning: /openlane/designs/4bit_alu/runs/RUN_2025.08.12_07.29.39/results/routing/alu.nl.v line 323, module sky130_fd_sc_hd__fill_2 not found. Creating black box for FILLER_0_0_15.
+Warning: /openlane/designs/4bit_alu/runs/RUN_2025.08.12_07.29.39/results/routing/alu.nl.v line 325, module sky130_ef_sc_hd__decap_12 not found. Creating black box for FILLER_0_0_29.
+Warning: /openlane/designs/4bit_alu/runs/RUN_2025.08.12_07.29.39/results/routing/alu.nl.v line 328, module sky130_fd_sc_hd__fill_1 not found. Creating black box for FILLER_0_0_55.
+Warning: There is 1 unclocked register/latch pin.
+Warning: There are 2 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!
