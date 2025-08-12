@@ -56,8 +56,8 @@ alu_project/
 │   └── alu_tb.v
 ├── synth/             # Synthesis outputs
 ├── openlane/          # OpenLane (OpenROAD) scripts
-├── gds/               # Final GDS output
 ├── netlist/
+├── gds/               # Final GDS output
 
 ```
 ---
