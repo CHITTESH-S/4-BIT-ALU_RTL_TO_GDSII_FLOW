@@ -1,0 +1,24 @@
+
+53. Printing statistics.
+
+=== alu ===
+
+   Number of wires:                 78
+   Number of wire bits:             88
+   Number of public wires:           6
+   Number of public wire bits:      16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 74
+     $_ANDNOT_                      26
+     $_AND_                          5
+     $_MUX_                          5
+     $_NAND_                         4
+     $_NOR_                          6
+     $_ORNOT_                        6
+     $_OR_                          11
+     $_XNOR_                         3
+     $_XOR_                          7
+     sky130_fd_sc_hd__dlxtn_1        1
+
